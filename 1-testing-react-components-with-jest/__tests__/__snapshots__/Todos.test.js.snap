@@ -1,0 +1,108 @@
+exports[`test should add a todo to a list of todos 1`] = `
+<div
+  id="todos-container">
+  <div
+    id="todos-input">
+    <input
+      name="input"
+      onChange={[Function]}
+      type="text"
+      value="" />
+    <button
+      onClick={[Function]}>
+      Add todo!
+    </button>
+  </div>
+  <div
+    id="todos-list">
+    <ul />
+  </div>
+</div>
+`;
+
+exports[`test should add a todo to a list of todos 2`] = `
+<div
+  id="todos-container">
+  <div
+    id="todos-input">
+    <input
+      name="input"
+      onChange={[Function]}
+      type="text"
+      value="" />
+    <button
+      onClick={[Function]}>
+      Add todo!
+    </button>
+  </div>
+  <div
+    id="todos-list">
+    <ul>
+      <li
+        onClick={[Function]}
+        style={Object {}}>
+        some content
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`test should render a list of todos 1`] = `
+<div
+  id="todos-container">
+  <div
+    id="todos-input">
+    <input
+      name="input"
+      onChange={[Function]}
+      type="text"
+      value="" />
+    <button
+      onClick={[Function]}>
+      Add todo!
+    </button>
+  </div>
+  <div
+    id="todos-list">
+    <ul>
+      <li
+        onClick={[Function]}
+        style={Object {}}>
+        some todo
+      </li>
+      <li
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "line-through",
+          }
+        }>
+        other todo
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`test should render an empty component 1`] = `
+<div
+  id="todos-container">
+  <div
+    id="todos-input">
+    <input
+      name="input"
+      onChange={[Function]}
+      type="text"
+      value="" />
+    <button
+      onClick={[Function]}>
+      Add todo!
+    </button>
+  </div>
+  <div
+    id="todos-list">
+    <ul />
+  </div>
+</div>
+`;
