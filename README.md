@@ -17,5 +17,5 @@ We storage our presentations here. Each Tuesday one member of the team will pres
 
 ## Index
 
-1. Testing React components with Jest (@keyserfaty)
-2. React Patterns (@andresmijares)
+1. [Testing React components with Jest](https://github.com/sgrepo/fe_talks/tree/master/1-testing-react-components-with-jest) ( [@keyserfaty](https://github.com/keyserfaty) )
+2. [https://github.com/sgrepo/fe_talks/tree/master/2-react-patterns](https://github.com/sgrepo/fe_talks/tree/master/2-react-patterns) ( [@andresmijares](https://github.com/andresmijares) )
