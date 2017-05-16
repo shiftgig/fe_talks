@@ -19,3 +19,4 @@ We storage our presentations here. Each Tuesday one member of the team will pres
 
 1. [Testing React components with Jest](https://github.com/sgrepo/fe_talks/tree/master/1-testing-react-components-with-jest) ( [@keyserfaty](https://github.com/keyserfaty) )
 2. [React patterns](https://github.com/sgrepo/fe_talks/tree/master/2-react-patterns) ( [@andresmijares](https://github.com/andresmijares) )
+3. [Recompose 101](https://github.com/sgrepo/fe_talks/tree/master/3-recompose-framework) ( [@coreymartin](https://github.com/coreymartin) )
