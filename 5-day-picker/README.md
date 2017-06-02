@@ -1,4 +1,4 @@
-# Building Redux
+# FE Day Picker
 
 Im going to make a little demo of [fe_day_picker](https://github.com/sgrepo/fe_day_picker/tree/day-picker-component) component (under development), show the API
 an build a custom DayComponent to show the team how to customize your DayPicker component.
@@ -11,10 +11,9 @@ Demo App:
 ![dayPickers](/5-day-picker//images/dayPickers.png)
 
 
-The customDay implementation is going to retrieve coverage value from shiftsCoverage object and reflect this value with different styles.
+The customDay implementation is going to retrieve coverage value from a shiftsCoverage (just for the first two weeks) object and reflect this value with different styles. If the coverage is 1 the day will have a green background, if not it will be yellow or red.
 
 Final Result:
-
 
 <img src="/5-day-picker/images/newCustomDayPicker.png" width="50%" height="50%" />
 
@@ -135,7 +134,4 @@ const shiftsCoverage = {
   13: {coverage: 1},
   14: {coverage: 1},
 }
-
-
-
 ```
