@@ -4,7 +4,7 @@ Im going to make a little demo of [fe_day_picker](https://github.com/sgrepo/fe_d
 an build a custom DayComponent to show the team how to customize your DayPicker component.
 
 We are going to use a demo app that can be found [on fe_day_picker](https://github.com/sgrepo/fe_day_picker/tree/demo), the demo and the component are
-are under development there are not final versions.
+are under development, there are not final versions.
 
 Demo App:
 
