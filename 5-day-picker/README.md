@@ -16,7 +16,7 @@ The customDay implementation is going to retrieve coverage value from shiftsCove
 Final Result:
 
 
-![newCustomDayPicker](/images/newCustomDayPicker.png)
+![newCustomDayPicker](5-day-picker/images/newCustomDayPicker.png)
 
 
 ```
