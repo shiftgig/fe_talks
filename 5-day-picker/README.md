@@ -8,7 +8,7 @@ are under development there are not final versions.
 
 Demo App:
 
-![dayPickers](5-day-picker/images/dayPickers.png)
+![dayPickers](/images/dayPickers.png)
 
 
 The customDay implementation is going to retrieve coverage value from shiftsCoverage object and reflect this value with different styles.
@@ -16,7 +16,7 @@ The customDay implementation is going to retrieve coverage value from shiftsCove
 Final Result:
 
 
-![newCustomDayPicker](5-day-picker/images/newCustomDayPicker.png)
+![newCustomDayPicker](/images/newCustomDayPicker.png)
 
 
 ```
