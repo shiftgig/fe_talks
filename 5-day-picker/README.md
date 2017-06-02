@@ -1,9 +1,9 @@
 # FE Day Picker
 
 Im going to make a little demo of [fe_day_picker](https://github.com/sgrepo/fe_day_picker/tree/day-picker-component) component (under development), show the API
-an build a custom DayComponent to show the team how to customize your DayPicker component.
+an build a custom DayComponent to show how to customize your own DayPicker.
 
-We are going to use a demo app that can be found [on fe_day_picker](https://github.com/sgrepo/fe_day_picker/tree/demo), the demo and the component are
+We are going to use a demo app that can be found [on fe_day_picker demo branch](https://github.com/sgrepo/fe_day_picker/tree/demo), the demo and the component are
 are under development, there are not final versions.
 
 Demo App:
