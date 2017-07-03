@@ -16,7 +16,7 @@ const List = props => {
           { items.map(item => <li>{item}</li>) }
         </ul>
       )}
-      { status === 'failure' && <div>There's been an error: {error}</div>}
+      { status === 'failure' && <div>There has been an error: {error}</div>}
     </span>
   );
 };
