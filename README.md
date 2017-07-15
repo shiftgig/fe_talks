@@ -24,3 +24,4 @@ We storage our presentations here. Each Tuesday one member of the team will pres
 5. [Creating a custom day picker](https://github.com/sgrepo/fe_talks/tree/5-day-picker) ([@ssaucedo](https://github.com/ssaucedo)
 6. [Functional Programming 101](https://github.com/sgrepo/fe_talks/tree/6-FP101/) ([@andresmijares](https://github.com/andresmijares))
 7. [Async patterns in React/Redux](https://github.com/sgrepo/fe_talks/tree/master/7-async-patterns) ([@keyserfaty](https://github.com/keyserfaty))
+5. [Introduction to Webpack Plugins](https://github.com/sgrepo/fe_talks/tree/5-day-picker) ([@ssaucedo](https://github.com/ssaucedo)
