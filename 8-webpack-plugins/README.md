@@ -73,11 +73,11 @@ module.exports = AppendCodePlugin;
 
 ```
 
-###Comment on Debugging
+### Comment on Debugging
 
 To debug the webpack process in the demo I used https://www.npmjs.com/package/webpack-webstorm-debugger-script which is just a little debug configuration script for webpack.
 
-###More
+### More
 
 Open issue: https://github.com/webpack/webpack.js.org/issues/169
 
