@@ -1,3 +1,6 @@
+## Getting started
+After cloning the repo, if you'd like to see a working example cd to the `working-example` folder and run `yarn install`. Look at `app/components/Container` to see the lazy import of `ShopContent`. Run `yarn build` to produce the minified bundles and see how large the files are. Or start the dev server with `yarn serve` to play around with the example.
+
 # What is webpack:
 * It's the tool we on the FE use to take all of our source files and compile to a single js file for each app
 * It allows us to do lots of interesting things that aren't available in browsers like import dependencies and other ES6 syntax.
@@ -6,12 +9,12 @@
 # How can we make webpack better:
 Sometimes it's ok to have everything in one javascript file but for larger applications it's more efficient to only download what you need to start the app. There may be a small part of the site that only sees 5% traffic but has a lot of large dependencies. We don't want to slow down 95% of users with one large file.
 
-Webpack has code splitting and lazy loading features built in. It automatically splits up your bundles using the import() function alongside special comments:
+Webpack has code splitting and lazy loading features built in. It automatically splits up your bundles using the `import()` function alongside special comments:
 
 ```javascript
 var ContactForm = <div></div>
 
-import(/* webpackChunkName "ContactFormComponent" */ './ContactFormComponent').then((module) => {
+import(/* webpackChunkName: "ContactFormComponent" */ './ContactFormComponent').then((module) => {
   ContactForm = module.default
 })
 ```

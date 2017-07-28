@@ -26,3 +26,4 @@ We storage our presentations here. Each Tuesday one member of the team will pres
 7. [Async patterns in React/Redux](https://github.com/sgrepo/fe_talks/tree/master/7-async-patterns) ([@keyserfaty](https://github.com/keyserfaty))
 8. [Introduction to Webpack Plugins](https://github.com/sgrepo/fe_talks/tree/5-day-picker) ([@ssaucedo](https://github.com/ssaucedo))
 9. [Regex Basic and Advanced uses](https://github.com/sgrepo/fe_talks/tree/master/9-regex) ([@elstr](https://github.com/elstr))
+10. [Webpack code splitting and lazy loading](https://github.com/sgrepo/fe_talks/tree/master/10-wepack-lazy-loading) ([@coreymartin](https://github.com/coreymartin))
